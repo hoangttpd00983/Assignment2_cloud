@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+<!--
+.sidebar-box {
+
+  margin-bottom: 5px;
+}
+.sidebar-box h1.sidebar-box-title {
+  background: #666;
+  margin: 0;
+  font-size: 20px;
+  color: #fff;
+  height: 35px;
+  line-height: 35px;
+  padding: 0 5px;
+ 
+}
+a {
+    outline: 0;
+    text-decoration: underline;
+}
+
+a:link {
+    color: #0099FF;
+}
+
+a:visited {
+    color: #0099FF;
+}
+
+a:hover {
+    color: #FFFF00;
+}
+
+a:active {
+    color: #33FF66;
+}	
+
+	
+-->
+
